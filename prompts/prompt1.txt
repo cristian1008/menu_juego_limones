@@ -1,0 +1,1 @@
+Actua como diseñador grafico, mejora la parte visual del html y css no cambies los id de estos archivos y mantener los html y css separados
