@@ -1,1 +1,3 @@
 Actua como diseñador grafico, mejora la parte visual del html y css no cambies los id de estos archivos y mantener los html y css separados
+
+Actua como diseñador grafico, ajusta partes del diseño que esteticamente haya que mejorar yo propongo bajar el tamaño del titulo principal porque esta muy cargado muy grande
